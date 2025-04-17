@@ -3,7 +3,7 @@
 ## 🚀 Backend Developer
 
 - 💻 **Languages:** PHP, Go, JavaScript
-- 🛠 **Frameworks:** Laravel, React
+- 🛠 **Frameworks:** Laravel, Vue
 - 🔧 **Tools:** Git, Docker
 - 📫 **Contact me:** yasintaqavi79@gmail.com
 
