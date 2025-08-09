@@ -1,5 +1,7 @@
 # Hi, I'm a Developer 
 
+Welcome to my GitHub profile! I'm a passionate developer focused on building scalable, efficient solutions and contributing to open-source projects. My goal is to create clean, maintainable code that drives meaningful impact.
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-taghavi-2b71932a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
