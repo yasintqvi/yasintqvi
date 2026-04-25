@@ -7,8 +7,7 @@
 
 **Hi, I'm a Developer**  
 
-I build practical tools, packages, and backend solutions focused on clean structure, reliability, and real-world usage.  
-My work is inspired by the balance and precision found in traditional Iranian patterns — simple, clear, and built to last.
+Backend developer. The way I structure code is inspired by Iranian architecture: clear boundaries, indirect connections, and a central core that keeps things stable.
 
 ---
 
