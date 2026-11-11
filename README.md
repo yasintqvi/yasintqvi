@@ -17,6 +17,6 @@ I'm open to remote work. If you want to talk about code, AI, or anything in betw
 <br>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yasintqvi&show_icons=true&hide_border=true&bg_color=151311&title_color=f0a35e&icon_color=f0a35e&text_color=d9d1c5" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasintqvi&layout=compact&hide_border=true&bg_color=151311&title_color=f0a35e&text_color=d9d1c5" alt="Most used languages">
+  <img height="160" src="./profile/stats.svg" alt="GitHub stats">
+  <img height="160" src="./profile/top-langs.svg" alt="Most used languages">
 </p>
