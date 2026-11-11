@@ -7,16 +7,3 @@ Lately most of my free time goes into AI engineering: building with LLMs and age
 Day to day I work with PHP, Laravel, TypeScript, React, PostgreSQL, MySQL, Docker and GitHub Actions. I like codebases that are easy to change a year later, so I lean on things like DDD and hexagonal architecture.
 
 I'm open to remote work. If you want to talk about code, AI, or anything in between, find me here:
-
-[![Website](https://img.shields.io/badge/Website-f0a35e?style=flat-square&logo=googlechrome&logoColor=1a1410)](https://yasintqvi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f0a35e?style=flat-square&logo=linkedin&logoColor=1a1410)](https://www.linkedin.com/in/yasin-taghavi-2b71932a8)
-[![Telegram](https://img.shields.io/badge/Telegram-f0a35e?style=flat-square&logo=telegram&logoColor=1a1410)](https://t.me/yasin_tqv)
-[![Instagram](https://img.shields.io/badge/Instagram-f0a35e?style=flat-square&logo=instagram&logoColor=1a1410)](https://instagram.com/yasin.tqvi)
-[![Email](https://img.shields.io/badge/Email-f0a35e?style=flat-square&logo=gmail&logoColor=1a1410)](mailto:yasintaqavi79@gmail.com)
-
-<br>
-
-<p>
-  <img height="160" src="./profile/stats.svg" alt="GitHub stats">
-  <img height="160" src="./profile/top-langs.svg" alt="Most used languages">
-</p>
