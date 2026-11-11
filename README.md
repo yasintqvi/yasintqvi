@@ -1,18 +1,22 @@
-<div align="center">
+### Hey, I'm Yasin
 
-<img src="./iran-tile-1.jpg" 
-     alt="Iranian Architecture Tile"
-     width="260" 
-     style="border-radius:12px; border:2px solid #00e4c0; margin-bottom:15px;"/>
+I write back-end code for a living, mostly PHP and Laravel, and I've been doing it for about six years.
 
-**Hi, I'm a Developer**  
+Lately most of my free time goes into AI engineering: building with LLMs and agents, and trying to understand how they actually work under the hood. I'm also reading a lot about system design and networking.
 
-Backend developer. The way I structure code is inspired by Iranian architecture: clear boundaries, indirect connections, and a central core that keeps things stable.
+Day to day I work with PHP, Laravel, TypeScript, React, PostgreSQL, MySQL, Docker and GitHub Actions. I like codebases that are easy to change a year later, so I lean on things like DDD and hexagonal architecture.
 
----
+I'm open to remote work. If you want to talk about code, AI, or anything in between, find me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-taghavi-2b71932a8)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasin.tqvi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasintaqavi79@gmail.com)
+[![Website](https://img.shields.io/badge/Website-f0a35e?style=flat-square&logo=googlechrome&logoColor=1a1410)](https://yasintqvi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f0a35e?style=flat-square&logo=linkedin&logoColor=1a1410)](https://www.linkedin.com/in/yasin-taghavi-2b71932a8)
+[![Telegram](https://img.shields.io/badge/Telegram-f0a35e?style=flat-square&logo=telegram&logoColor=1a1410)](https://t.me/yasin_tqv)
+[![Instagram](https://img.shields.io/badge/Instagram-f0a35e?style=flat-square&logo=instagram&logoColor=1a1410)](https://instagram.com/yasin.tqvi)
+[![Email](https://img.shields.io/badge/Email-f0a35e?style=flat-square&logo=gmail&logoColor=1a1410)](mailto:yasintaqavi79@gmail.com)
 
-</div>
+<br>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yasintqvi&show_icons=true&hide_border=true&bg_color=151311&title_color=f0a35e&icon_color=f0a35e&text_color=d9d1c5" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasintqvi&layout=compact&hide_border=true&bg_color=151311&title_color=f0a35e&text_color=d9d1c5" alt="Most used languages">
+</p>
